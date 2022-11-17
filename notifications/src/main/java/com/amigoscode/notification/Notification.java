@@ -1,4 +1,4 @@
-package com.amigoscode;
+package com.amigoscode.notification;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

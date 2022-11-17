@@ -15,6 +15,7 @@
       <module>clients</module>
       <module>notifications</module>
       <module>apigateway</module>
+      <module>rabbitmq</module>
   </modules>
 
   <name>amigosservice</name>

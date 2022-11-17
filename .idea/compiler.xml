@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="apigateway" />
         <module name="clients" />
-        <module name="eureka-server" />
         <module name="fraud" />
+        <module name="eureka-server" />
+        <module name="rabbitmq" />
         <module name="notifications" />
         <module name="customer" />
       </profile>
